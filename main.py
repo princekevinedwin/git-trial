@@ -2,5 +2,5 @@ print("welcome")
 print("hello, kevin")
 print("Hello")
 print("bro")
-
-
+print("hello fam")
+print("wagwan bruv")
